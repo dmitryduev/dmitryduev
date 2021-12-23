@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-midnightblue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmitryduev/)
+
 ![Dima's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitryduev&show_icons=true&count_private=true&theme=dracula)
