@@ -1,4 +1,4 @@
-🔭 [![Linkedin](https://img.shields.io/badge/-LinkedIn-midnightblue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmitryduev/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-midnightblue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmitryduev/) 🔭
 
 <!--
 **dmitryduev/dmitryduev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Dima's GitHub stats]([https://github-readme-stats.vercel.app/api?username=dmitryduev&show_icons=true&count_private=true&theme=dracula&layout=compact](https://github-readme-stats.vercel.app/api?username=dmitryduev&hide_border=false&hide_rank=true&show_icons=true&disable_animations=true&custom_title=Stats&theme=vue-dark&count_private=true))
+![Dima's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitryduev&hide_border=false&hide_rank=true&show_icons=true&disable_animations=true&custom_title=Stats&theme=vue-dark&count_private=true)
