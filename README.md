@@ -1,4 +1,9 @@
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-midnightblue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmitryduev/) 🔭
+<p align="center">   
+  <a href="https://www.linkedin.com/in/dmitryduev/">
+      <img src="https://img.shields.io/badge/LinkedIn-Dmitry--Duev-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>
+  </a>
+   🔭
+</p>
 
 <!--
 **dmitryduev/dmitryduev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![Dima's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitryduev&hide_border=false&hide_rank=true&show_icons=true&disable_animations=true&custom_title=Stats&theme=vue-dark&count_private=true)
+-->
